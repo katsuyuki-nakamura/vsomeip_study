@@ -1,0 +1,3 @@
+[submodule "vsomeip"]
+	path = vsomeip
+	url = git@github.com:COVESA/vsomeip.git
